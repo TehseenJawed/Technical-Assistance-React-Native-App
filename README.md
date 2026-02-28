@@ -1,5 +1,6 @@
 # 📘 Technical Assistance React Native App
 
+
 A single-screen React Native application that provides:
 
 - Live camera preview
@@ -8,6 +9,7 @@ A single-screen React Native application that provides:
 - Background push handling
 - Proper permission management
 - Safe camera resource cleanup on unmount
+
 
 Built using:
 
@@ -28,17 +30,17 @@ This project demonstrates:
 - Production-aware scaling considerations
 
 ---
-
 # 🛠 Prerequisites
+
 
 ## macOS (Required for iOS builds)
 
-- Node.js (LTS)
+- Node.js 
 - Watchman
-- Xcode (latest stable)
+- Xcode 
 - CocoaPods
 - JDK 17
-- Android Studio (for Android builds)
+- Android Studio 
 
 ## Windows
 
@@ -51,6 +53,6 @@ This project demonstrates:
 # 📦 Installation
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/TehseenJawed/Technical-Assistance-React-Native-App
 cd TechnicalAssistanceApp
 npm install
